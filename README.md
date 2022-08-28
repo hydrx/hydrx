@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [resume link here](resume link here)
 
-- ⚡ Fun fact **I love building custom mechanical keyboards**
+- ⚡ Fun fact - **I love building custom mechanical keyboards**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
