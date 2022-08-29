@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react, django**
 
-- 👨‍💻 All of my projects are available at [ticiafr.io](ticiafr.io)
+- 👨‍💻 All of my projects are available at [ticiafrancisco.netilfy.app](ticiafrancisco.netilfy.app)
 
 - 📄 Know about my experiences [resume link here](resume link here)
 
