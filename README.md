@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react, django**
 
-- 👨‍💻 See my recent projects at [ticiafrancisco.netilfy.app](ticiafrancisco.netilfy.app)
+- 👨‍💻 See my recent projects at [ticiafrancisco.netilfy.app](http://ticiafrancisco.netilfy.app)
 
 - ⚡ Fun fact - **I love building custom mechanical keyboards**
 
