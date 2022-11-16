@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **react, django**
 
-- 👨‍💻 See my recent projects at [ticiafrancisco.netilfy.app](http://ticiafrancisco.netilfy.app)
+- 👨‍💻 See my recent projects at [ticiadev.netilfy.app](http://ticiadev.netilfy.app)
 
 - ⚡ Fun fact - **I love building custom mechanical keyboards**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elephantscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elephantscode" height="30" width="40" /></a>
+<a href="https://twitter.com/ticiadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ticiadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/1francisco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1francisco" height="30" width="40" /></a>
 </p>
 
