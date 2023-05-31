@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ticia!</h1>
 <h3 align="center">Creative, detail-oriented software engineer in Los Angeles, CA</h3>
 
-- 🌱 I’m currently learning **react, django**
+- 🌱 I’m currently learning **typescript, django**
 
 - 👨‍💻 Here's some quick things I've made on [codepen](https://codepen.io/ticiadev)
 
